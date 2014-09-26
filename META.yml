@@ -29,6 +29,6 @@ resources:
   bugtracker: https://github.com/oneandoneis2/App-Goto2/issues
   homepage: https://github.com/oneandoneis2/App-Goto2
   repository: https://github.com/oneandoneis2/App-Goto2.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Dominic Humphries <dominich@broadbean.com>'
